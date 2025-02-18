@@ -1,1 +1,22 @@
+body {
+  background-image: url("clownpics/img_clownchurch.png");
+}
 
+img {
+  max-width: 80%;
+  height: auto;
+  border-radius: 10px;
+}
+
+h1 {
+  font-family: "Georgia", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+p {
+  color: white;
+  font-family: times;
+  font-size: 14px;
+}
