@@ -2,7 +2,7 @@ body {
   background-image: url("clownpics/img_clownchurch.png");
 }
 
-clownpics {
+img {
   max-width: 70%;
   height: auto;
   border-radius: 10px;
